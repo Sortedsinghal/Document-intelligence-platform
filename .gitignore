@@ -46,3 +46,4 @@ coverage.xml
 venv/lib/python3.11/site-packages/onnxruntime/capi/libonnxruntime.1.22.0.dylib
 venv/lib/python3.11/site-packages/onnxruntime/capi/onnxruntime_pybind11_state.so
 venv/lib/python3.11/site-packages/torch/lib/libtorch_cpu.dylib
+venv/lib/python3.11/site-packages/torch/lib/libtorch_cpu.dylibvenv/
